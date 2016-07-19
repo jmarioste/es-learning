@@ -1,0 +1,26 @@
+{
+  "name": "es-learning",
+  "version": "1.0.0",
+  "description": "ES learning",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shizkun/es-learning.git"
+  },
+  "keywords": [
+    "es6",
+    "learn"
+  ],
+  "author": "Jasser <pivotanimator95@gmail.com> (https://github.com/shizkun)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shizkun/es-learning/issues"
+  },
+  "homepage": "https://github.com/shizkun/es-learning#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
